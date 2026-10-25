@@ -1,4 +1,9 @@
-__pycache__/
-*.py[cod]
 .env
-*.wav
+.venv/
+node_modules/
+dist/
+__pycache__/
+*.pyc
+backend/data/chroma/
+backend/data/audio/
+backend/data/performances.json
